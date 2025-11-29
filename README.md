@@ -5,10 +5,10 @@ Generate synthetic Diplomacy games using Meta's Cicero agent for training data.
 ## Setup
 
 ```bash
-git clone --recursive <repo-url>
+git clone --recursive https://github.com/ivanj-0/diplomacy-training-data
 ```
 
-Follow the installation instructions in [diplomacy_cicero/README.md](diplomacy_cicero/README.md) to set up the environment and download model files.
+Follow the installation instructions in diplomacy_cicero/README.md to set up the environment and download model files.
 
 ## Usage
 
